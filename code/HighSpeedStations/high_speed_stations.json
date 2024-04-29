@@ -1,0 +1,247 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+        "timestamp_osm_base": "2024-04-27T06:54:05Z",
+        "timestamp_areas_base": "2024-04-27T01:25:39Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 2716417212,
+            "lat": 31.4235889,
+            "lon": 120.6407245,
+            "tags": {
+                "name": "高铁苏州北站",
+                "name:en": "Suzhou North Railway Station",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7702313756,
+            "lat": 29.2164051,
+            "lon": 120.2595347,
+            "tags": {
+                "name": "横店高铁站",
+                "operator": "金华市轨道交通",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7702323725,
+            "lat": 29.3796602,
+            "lon": 120.0403976,
+            "tags": {
+                "addr:city": "金华市",
+                "addr:district": "义乌市",
+                "addr:postcode": "321000",
+                "addr:province": "浙江省",
+                "name": "义乌高铁站",
+                "operator": "金华市轨道交通",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8270403723,
+            "lat": 34.2408276,
+            "lon": 117.2991371,
+            "tags": {
+                "name": "京沪高铁西",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9189809827,
+            "lat": 28.1518303,
+            "lon": 113.0615138,
+            "tags": {
+                "monorail": "yes",
+                "name": "磁浮高铁站",
+                "name:en": "Changshanan Station",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "monorail"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9365183726,
+            "lat": 34.5953362,
+            "lon": 112.4506034,
+            "tags": {
+                "name": "龙门高铁站",
+                "name:en": "Longmen High-Speed Railway Station",
+                "opening_hours": "06:32-22:59",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9439672135,
+            "lat": 30.3844664,
+            "lon": 120.2933195,
+            "tags": {
+                "layer": "-1",
+                "name": "临平南高铁站",
+                "name:en": "linpingnan Railway Station",
+                "name:zh": "临平南高铁站",
+                "opening_hours": "06:09-23:49",
+                "operator": "杭州地铁集团运营分公司，浙江轨道运营集团海宁分公司",
+                "public_transport": "station",
+                "railway": "station",
+                "ref": "4",
+                "start_date": "-",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9439672136,
+            "lat": 30.3848806,
+            "lon": 120.2918467,
+            "tags": {
+                "layer": "-1",
+                "name": "临平南高铁站",
+                "name:en": "linpingnan Railway Station",
+                "name:zh": "临平南高铁站",
+                "opening_hours": "06:09-23:49",
+                "operator": "杭州地铁集团运营分公司，浙江轨道运营集团海宁分公司",
+                "public_transport": "station",
+                "railway": "station",
+                "ref": "4",
+                "start_date": "-",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570091050,
+            "lat": 32.2017232,
+            "lon": 118.3163095,
+            "tags": {
+                "name": "滁州高铁站",
+                "name:zh": "滁州高铁站",
+                "name:zh-Hans": "滁州高铁站",
+                "name:zh-Hant": "滁州高鐵站",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9776763669,
+            "lat": 27.4760999,
+            "lon": 118.0861081,
+            "tags": {
+                "light_rail": "yes",
+                "name": "南平市高铁站",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "light_rail"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9929893746,
+            "lat": 29.3455172,
+            "lon": 106.2530759,
+            "tags": {
+                "name": "江津高铁",
+                "name:en": "Jiangjin High-speed Railway Sation",
+                "name:zh": "江津高铁",
+                "network": "重庆轨道交通",
+                "network:en": "Chongqing Rail Transit",
+                "network:short": "CRT",
+                "network:wikidata": "Q1190894",
+                "network:zh": "重庆轨道交通",
+                "public_transport": "station",
+                "railway": "station",
+                "ref": "JT/06",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10291175745,
+            "lat": 22.7083348,
+            "lon": 114.3227832,
+            "tags": {
+                "monorail": "yes",
+                "name": "坪山高铁站",
+                "name:en": "Pingshan High-speed Railway Station",
+                "name:zh": "坪山高铁站",
+                "public_transport": "station",
+                "railway": "station",
+                "wikidata": "Q115074851",
+                "wikipedia": "zh:坪山高铁站"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11163093700,
+            "lat": 32.0654173,
+            "lon": 117.2506474,
+            "tags": {
+                "name": "北城高铁站",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11434464528,
+            "lat": 34.7938838,
+            "lon": 113.7678604,
+            "tags": {
+                "name": "高铁公园",
+                "name:en": "Gaotie Gongyuan",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11545949017,
+            "lat": 31.8641474,
+            "lon": 120.274425,
+            "tags": {
+                "name": "江阴高铁站",
+                "name:en": "Jiangyin Railway Station",
+                "public_transport": "station",
+                "railway": "station",
+                "station": "subway",
+                "subway": "yes",
+                "wikidata": "Q124328292"
+            }
+        }
+    ]
+}
